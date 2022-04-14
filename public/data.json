@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "ЖК Senator park",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://жкприбрежный.рф/800/600/https/xn--e1aaibrcehemfoiq8d.xn--p1ai/wp-content/uploads/2018/12/8a3f6278f64f787581f77e5cadb807ee1.jpg",
+      "https://www.openbusiness.ru/upload/iblock/996/8976769.jpg",
+      "https://static.tildacdn.com/tild3265-3631-4539-b534-373535323032/DSC_1086.jpg"
+    ],
+    "typeId": 3
+  },
+  {
+    "id": 2,
+    "name": "ЖК Diamond",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://evdom.ru/wp-content/uploads/2018/08/1-8-1000x563.jpg",
+      "https://fainaidea.com/wp-content/uploads/2016/03/49725-board_11258.jpg",
+      "https://static.tildacdn.com/tild3265-3631-4539-b534-373535323032/DSC_1086.jpg"
+    ],
+    "typeId": 3
+  },
+  {
+    "id": 3,
+    "name": "ЖК Apple City",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://silastroy.com/wp-content/uploads/2018/12/remont-kvartir-v-almaty-nadyozhno-i-dostupno-1.jpg",
+      "https://www.goodwill-stroi.ru/upload/iblock/ef9/ef905f14cfaab3e6732476a12945884f.jpg",
+      "https://cdn.forbes.ru/forbes-static/1082x609/new/2021/12/9-61af6f76036fc.webp"
+    ],
+    "typeId": 2
+  },
+  {
+    "id": 4,
+    "name": "ЖК Empire",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://evdom.ru/wp-content/uploads/2018/07/dizayn-interyera-1-komnatnoy-kvartiry-40-kv-m-foto-13612-03.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ618Icq3l-pgaFtSqmZASblddldIaO6t-7UQ&usqp=CAU"
+    ],
+    "typeId": 3
+  },
+  {
+    "id": 5,
+    "name": "ЖК Home World",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://www.prostanki.com/img/boardpics/2021_12/lLD2vOy3YEdEaKzT1BM7.jpg",
+      "https://remont-f.ru/upload/iblock/535/remont-v-klassicheskom-stile-v-kvartire-foto-01.jpg"
+    ],
+    "typeId": 3
+  },
+  {
+    "id": 6,
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "name": "ЖК Kazakhstan",
+    "images": [
+      "https://dekoriko.ru/images/article/orig/2017/12/dizajnerskie-idei-remonta-kvartiry-8.jpg",
+      "https://remont-f.ru/upload/iblock/535/remont-v-klassicheskom-stile-v-kvartire-foto-01.jpg"
+    ],
+    "typeId": 4
+  },
+  {
+    "id": 7,
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "name": "ЖК New Genaration",
+    "images": [
+      "https://evdom.ru/wp-content/uploads/2019/03/remont-3-komnatnoy-kvartiry-v-sovremennom-stile-21322-02.jpg",
+      "https://remont-f.ru/upload/iblock/535/remont-v-klassicheskom-stile-v-kvartire-foto-01.jpg"
+    ],
+    "typeId": 2
+  },
+  {
+    "id": 8,
+    "name": "ЖК Mamay",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://silastroy.com/wp-content/uploads/2018/12/remont-kvartir-v-almaty-nadyozhno-i-dostupno-1.jpg",
+      "https://www.goodwill-stroi.ru/upload/iblock/ef9/ef905f14cfaab3e6732476a12945884f.jpg",
+      "https://cdn.forbes.ru/forbes-static/1082x609/new/2021/12/9-61af6f76036fc.webp"
+    ],
+    "typeId": 4
+  },
+  {
+    "id": 9,
+    "name": "ЖК Krasnaya",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://www.prostanki.com/img/boardpics/2021_12/lLD2vOy3YEdEaKzT1BM7.jpg",
+      "https://remont-f.ru/upload/iblock/535/remont-v-klassicheskom-stile-v-kvartire-foto-01.jpg"
+    ],
+    "typeId": 2
+  },
+  {
+    "id": 10,
+    "name": "ЖК Parizh",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://remont-kupi.ru/images/prodacts/250/0/159.jpg",
+      "https://na-dache.pro/uploads/posts/2021-11/1636198967_1-na-dache-pro-p-remont-kvartiri-v-panelnom-dome-foto-1.jpg"
+    ],
+    "typeId": 4
+  },
+  {
+    "id": 11,
+    "name": "ЖК London",
+    "address": "Нур-Султан, ул. Академика, 40",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci at hic officiis quae quo sequi sit voluptate. A amet aspernatur dolorem facere, maiores, mollitia nam natus nihil nulla quae repudiandae sapiente sed sit? Aliquam aliquid amet animi aspernatur at aut commodi consequuntur cum distinctio eius, enim eveniet fuga fugit laboriosam maiores minima mollitia nobis numquam obcaecati pariatur perfe",
+    "images": [
+      "https://designremont.moscow/wp-content/uploads/2018/06/Dizajnerskij_remont_kvartir.jpg",
+      "https://image.jimcdn.com/app/cms/image/transf/dimension=990x10000:format=jpg/path/sc81bb890424b2b29/image/ibd9d186ef2e893be/version/1558431945/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80%D0%B0.jpg"
+    ],
+    "typeId": 4
+  }
+]

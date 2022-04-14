@@ -1,0 +1,148 @@
+@import "src/assets/styles/vars"
+.projectGallerySlider
+  padding-top: 27px
+
+  &__sliderWrapper
+    position: relative
+
+  &__image
+    height: 420px
+    background-repeat: no-repeat
+    background-size: cover !important
+    background-position: center !important
+
+  &__page
+    position: absolute
+    right: 15px
+    font-size: 12px
+    font-weight: bold
+    bottom: -45px
+    color: #96a6b5
+
+    &Current
+      color: #011120
+
+  &__addBlock
+    background: #dfeffe
+    width: 150px
+    height: 273px
+    position: absolute
+    bottom: -49px
+    right: -50px
+    z-index: -1
+
+  &Arrow
+    background: $secondary
+    color: #fff
+    display: flex !important
+    justify-content: center
+    align-items: center
+    width: 50px
+    height: 50px
+    position: absolute
+    right: 0
+    bottom: 4px
+    cursor: pointer
+    transition: all .4s
+    z-index: 50
+
+    &:hover
+      background: $blackRed
+
+    &Left
+      display: block
+      right: 50px
+
+    &Right
+      display: block
+
+  &__complex
+    width: 80%
+
+    &Header
+      display: flex
+      align-items: center
+
+    &Address
+      color: #878995
+      font-weight: bold
+      font-size: 14px
+
+    &Title
+      position: relative
+      font-weight: bold
+      font-size: 14px
+      color: #15243F
+      padding-left: 15px
+
+      &:after
+        position: absolute
+        content: ""
+        width: 5px
+        height: 5px
+        border-radius: 50%
+        color: $secondary
+        left: 15px
+        top: 0
+        display: list-item
+
+    &Desc
+      color: $textColor
+      line-height: 24px
+      font-size: 14px
+      margin-top: 0
+
+  &__NL
+    display: none
+
+@media (max-width: 991px)
+  .projectGallerySlider
+    &__complex
+      width: 75%
+
+@media (max-width: 768px)
+  .projectGallerySlider
+    padding-top: 27px
+
+    &__complex
+      &Title
+        margin-bottom: 0
+
+      &Address
+        margin-top: 5px
+        margin-bottom: 20px
+
+        span
+          display: none
+
+      &Header
+        flex-direction: column
+        align-items: normal
+
+
+@media (max-width: 576px)
+  .projectGallerySlider
+    &__addBlock
+      display: none
+
+    &__complex
+      width: 100%
+
+      &Title
+        line-height: 25px
+
+    &__image
+      height: 320px
+
+    &__NL
+      display: block
+
+@media (max-width: 479px)
+
+  .projectGallerySlider
+    &__complex
+      &Title
+        width: 87%
+
+
+

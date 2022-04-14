@@ -1,0 +1,29 @@
+@import "src/assets/styles/vars";
+.wrapper {
+  scrollbar-width: thin;
+  scrollbar-color: $blackRed transparent;
+  &::-webkit-scrollbar {
+    width: 4px;
+    height: 5px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: $blackRed;
+    border-radius: 1px;
+  }
+  &:focus {
+    outline: none;
+  }
+  &::placeholder {
+    color: #000;
+  }
+  &_type_ {
+    &thin {
+      &::-webkit-scrollbar {
+        width: 2px;
+      }
+    }
+  }
+}

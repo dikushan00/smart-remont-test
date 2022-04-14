@@ -1,0 +1,103 @@
+@import "src/assets/styles/vars"
+.select
+  border: none
+  display: flex
+  background: #fff
+  align-items: center
+  justify-content: space-between
+  text-align: center
+  appearance: none
+  position: relative
+  list-style: none
+  width: 100%
+  height: auto
+  font-weight: 400
+  padding: 12px 10px
+
+  &Position__wrapper
+    position: relative
+    margin: 9px 0
+
+  &__wrapper
+    min-width: max-content
+    height: auto
+    background: #fff
+    font-style: normal
+    line-height: 22px
+    font-size: 18px
+    box-shadow: 0 0 1px #ccc
+    z-index: 1001
+    font-family: Inter, sans-serif
+    cursor: pointer
+    color: $textColor
+    border: 1px solid #ccc
+    transition: all .3s
+
+    &:hover
+      border: 1px solid $textColor
+      box-shadow: 0 0 1px $textColor
+
+
+  &__list
+    position: absolute
+    padding: 7px 0
+    list-style: none
+    width: 100%
+    margin-bottom: 0
+    background: #fff
+    left: 0
+    top: 33px
+    border-radius: 3px
+    z-index: 5
+    box-shadow: 0 0 2px #ccc
+
+    &__item
+      list-style: none
+      display: flex
+      align-items: center
+      justify-content: space-between
+      text-align: center
+      color: $textColor
+      font-size: 14px
+      cursor: pointer
+      padding: 8px 12px
+
+      &Selected
+        background: #e7e7e7 !important
+
+      &:hover
+        background: #f1f1f1
+
+  &__icon
+    color: $textColor !important
+    font-size: 10px
+
+  &__placeholder
+    color: #ccc
+
+  &__arrow
+    color: $blackRed
+    font-size: 13px
+
+  &Flip
+    transition: all .3s
+    transform: rotate(180deg)
+
+  span
+    font-size: 14px
+
+
+@media screen and (max-width: 991px)
+  .select
+    &Position__wrapper
+      min-width: 140px
+
+@media screen and (max-width: 576px)
+  .select
+    font-weight: 400
+    font-size: 16px
+    line-height: 19px
+
+    &Position__wrapper
+      width: 90%
+
